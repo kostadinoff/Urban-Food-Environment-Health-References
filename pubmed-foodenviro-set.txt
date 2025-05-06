@@ -1,0 +1,1069 @@
+PMID- 37867396
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240315
+LR  - 20250402
+IS  - 1365-2796 (Electronic)
+IS  - 0954-6820 (Print)
+IS  - 0954-6820 (Linking)
+VI  - 295
+IP  - 4
+DP  - 2024 Apr
+TI  - Diet strategies for promoting healthy aging and longevity: An epidemiological 
+      perspective.
+PG  - 508-531
+LID - 10.1111/joim.13728 [doi]
+AB  - In recent decades, global life expectancies have risen significantly, accompanied 
+      by a marked increase in chronic diseases and population aging. This narrative 
+      review aims to summarize recent findings on the dietary factors influencing 
+      chronic diseases and longevity, primarily from large cohort studies. First, 
+      maintaining a healthy weight throughout life is pivotal for healthy aging and 
+      longevity, mirroring the benefits of lifelong, moderate calorie restriction in 
+      today's obesogenic food environment. Second, the specific types or food sources 
+      of dietary fat, protein, and carbohydrates are more important in influencing 
+      chronic disease risk and mortality than their quantity. Third, some traditional 
+      diets (e.g., the Mediterranean, Nordic, and Okinawa) and contemporary dietary 
+      patterns, such as healthy plant-based diet index, the DASH (dietary approaches to 
+      stop hypertension) diet, and alternate healthy eating index, have been associated 
+      with lower mortality and healthy longevity. These patterns share many common 
+      components (e.g., a predominance of nutrient-rich plant foods; limited red and 
+      processed meats; culinary herbs and spices prevalent in global cuisines) while 
+      embracing distinct elements from different cultures. Fourth, combining a healthy 
+      diet with other lifestyle factors could extend disease-free life expectancies by 
+      8-10 years. While adhering to core principles of healthy diets, it is crucial to 
+      adapt dietary recommendations to individual preferences and cultures as well as 
+      nutritional needs of aging populations. Public health strategies should aim to 
+      create a healthier food environment where nutritious options are readily 
+      accessible, especially in public institutions and care facilities for the 
+      elderly. Although further mechanistic studies and human trials are needed to 
+      better understand molecular effects of diet on aging, there is a pressing need to 
+      establish and maintain long-term cohorts studying diet and aging in culturally 
+      diverse populations.
+CI  - © 2023 The Authors. Journal of Internal Medicine published by John Wiley & Sons 
+      Ltd on behalf of Association for Publication of The Journal of Internal Medicine.
+FAU - Hu, Frank B
+AU  - Hu FB
+AUID- ORCID: 0000-0002-8233-6274
+AD  - Departments of Nutrition and Epidemiology, Harvard T.H. Chan School of Public 
+      Health, Boston, Massachusetts, USA.
+AD  - Channing Division of Network Medicine, Brigham and Women's Hospital, Harvard 
+      Medical School, Boston, Massachusetts, USA.
+LA  - eng
+GR  - R01 DK127601/DK/NIDDK NIH HHS/United States
+GR  - R01 HL118264/HL/NHLBI NIH HHS/United States
+GR  - DK127601/NH/NIH HHS/United States
+GR  - R01 HL060712/HL/NHLBI NIH HHS/United States
+GR  - HL118264/NH/NIH HHS/United States
+GR  - DK129670/NH/NIH HHS/United States
+GR  - DK129670/NH/NIH HHS/United States
+GR  - HL118264/NH/NIH HHS/United States
+GR  - DK127601/NH/NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20231023
+PL  - England
+TA  - J Intern Med
+JT  - Journal of internal medicine
+JID - 8904841
+SB  - IM
+MH  - Humans
+MH  - Aged
+MH  - *Longevity
+MH  - *Healthy Aging
+MH  - Diet
+MH  - Aging
+MH  - Chronic Disease
+PMC - PMC10939982
+MID - NIHMS1932908
+OTO - NOTNLM
+OT  - aging
+OT  - cardiovascular risk factors
+OT  - diet
+OT  - epidemiology
+OT  - nutrition
+OT  - physiology
+COIS- Conflicts of interest: The author declares no conflicts of interest.
+EDAT- 2023/10/23 06:48
+MHDA- 2024/03/15 06:43
+PMCR- 2025/04/01
+CRDT- 2023/10/23 03:43
+PHST- 2024/03/15 06:43 [medline]
+PHST- 2023/10/23 06:48 [pubmed]
+PHST- 2023/10/23 03:43 [entrez]
+PHST- 2025/04/01 00:00 [pmc-release]
+AID - 10.1111/joim.13728 [doi]
+PST - ppublish
+SO  - J Intern Med. 2024 Apr;295(4):508-531. doi: 10.1111/joim.13728. Epub 2023 Oct 23.
+
+PMID- 31507064
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211015
+LR  - 20211015
+IS  - 1467-789X (Electronic)
+IS  - 1467-7881 (Print)
+IS  - 1467-7881 (Linking)
+VI  - 22 Suppl 1
+IP  - Suppl 1
+DP  - 2021 Feb
+TI  - Fast-food restaurant, unhealthy eating, and childhood obesity: A systematic 
+      review and meta-analysis.
+PG  - e12944
+LID - 10.1111/obr.12944 [doi]
+LID - e12944
+AB  - Excessive access to fast-food restaurants (FFRs) in the neighbourhood is thought 
+      to be a risk factor for childhood obesity by discouraging healthful dietary 
+      behaviours while encouraging the exposure to unhealthful food venues and hence 
+      the compensatory intake of unhealthy food option. A literature search was 
+      conducted in the PubMed, Web of Science, and Embase for articles published until 
+      1 January 2019 that analysed the association between access to FFRs and 
+      weight-related behaviours and outcomes among children aged younger than 18. 
+      Sixteen cohort studies and 71 cross-sectional studies conducted in 14 countries 
+      were identified. While higher FFR access was not associated with weight-related 
+      behaviours (eg, dietary quality score and frequency of food consumption) in most 
+      studies, it was commonly associated with more fast-food consumption. Despite 
+      that, insignificant results were observed for all meta-analyses conducted by 
+      different measures of FFR access in the neighbourhood and weight-related 
+      outcomes, although 17 of 39 studies reported positive associations when using 
+      overweight/obesity as the outcome. This systematic review and meta-analysis 
+      revealed a rather mixed relationship between FFR access and weight-related 
+      behaviours/outcomes among children and adolescents.
+CI  - © 2019 The Authors. Obesity Reviews published by John Wiley & Sons Ltd on behalf 
+      of World Obesity Federation.
+FAU - Jia, Peng
+AU  - Jia P
+AUID- ORCID: 0000-0003-0110-3637
+AD  - Faculty of Geo-information Science and Earth Observation, University of Twente, 
+      Enschede, the Netherlands.
+AD  - International Institute of Spatial Lifecourse Epidemiology (ISLE), the 
+      Netherlands.
+FAU - Luo, Miyang
+AU  - Luo M
+AD  - International Institute of Spatial Lifecourse Epidemiology (ISLE), the 
+      Netherlands.
+AD  - Department of Reproductive Immunology, Affiliated Shenzhen Maternity & Child 
+      Healthcare Hospital, Southern Medical University, Shenzhen, China.
+AD  - Saw Swee Hock School of Public Health, National University of Singapore, 
+      Singapore.
+FAU - Li, Yamei
+AU  - Li Y
+AD  - Department of Maternal and Child Health, Xiangya School of Public Health, Central 
+      South University, Changsha, China.
+FAU - Zheng, Ju-Sheng
+AU  - Zheng JS
+AD  - School of Life Sciences, Westlake University, Hangzhou, China.
+FAU - Xiao, Qian
+AU  - Xiao Q
+AD  - International Institute of Spatial Lifecourse Epidemiology (ISLE), the 
+      Netherlands.
+AD  - Department of Health and Human Physiology, University of Iowa, Iowa City, Iowa, 
+      USA.
+AD  - Department of Epidemiology, University of Iowa, Iowa City, Iowa, USA.
+FAU - Luo, Jiayou
+AU  - Luo J
+AD  - International Institute of Spatial Lifecourse Epidemiology (ISLE), the 
+      Netherlands.
+AD  - Department of Maternal and Child Health, Xiangya School of Public Health, Central 
+      South University, Changsha, China.
+LA  - eng
+PT  - Journal Article
+PT  - Meta-Analysis
+PT  - Research Support, Non-U.S. Gov't
+PT  - Systematic Review
+DEP - 20190910
+PL  - England
+TA  - Obes Rev
+JT  - Obesity reviews : an official journal of the International Association for the 
+      Study of Obesity
+JID - 100897395
+SB  - IM
+MH  - Adolescent
+MH  - Child
+MH  - Cross-Sectional Studies
+MH  - Fast Foods
+MH  - Humans
+MH  - Overweight
+MH  - *Pediatric Obesity/epidemiology/etiology
+MH  - *Restaurants
+PMC - PMC7988557
+OTO - NOTNLM
+OT  - dietary behaviour
+OT  - fast food
+OT  - food environment
+OT  - obesity
+COIS- No conflict of interest was declared.
+EDAT- 2019/09/12 06:00
+MHDA- 2021/10/16 06:00
+PMCR- 2021/03/24
+CRDT- 2019/09/12 06:00
+PHST- 2019/08/12 00:00 [received]
+PHST- 2019/08/13 00:00 [revised]
+PHST- 2019/08/14 00:00 [accepted]
+PHST- 2019/09/12 06:00 [pubmed]
+PHST- 2021/10/16 06:00 [medline]
+PHST- 2019/09/12 06:00 [entrez]
+PHST- 2021/03/24 00:00 [pmc-release]
+AID - OBR12944 [pii]
+AID - 10.1111/obr.12944 [doi]
+PST - ppublish
+SO  - Obes Rev. 2021 Feb;22 Suppl 1(Suppl 1):e12944. doi: 10.1111/obr.12944. Epub 2019 
+      Sep 10.
+
+PMID- 37197878
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230519
+LR  - 20231225
+IS  - 1558-1942 (Electronic)
+IS  - 0889-8553 (Print)
+IS  - 0889-8553 (Linking)
+VI  - 52
+IP  - 2
+DP  - 2023 Jun
+TI  - Obesity, Chronic Stress, and Stress Reduction.
+PG  - 347-362
+LID - S0889-8553(23)00035-3 [pii]
+LID - 10.1016/j.gtc.2023.03.009 [doi]
+AB  - The obesity epidemic is caused by the misalignment between human biology and the 
+      modern food environment, which has led to unhealthy eating patterns and behaviors 
+      and an increase in metabolic diseases. This has been caused by the shift from a 
+      "leptogenic" to an "obesogenic" food environment, characterized by the 
+      availability of unhealthy food and the ability to eat at any time of day due to 
+      advances in technology. Binge Eating Disorder (BED) is the most commonly 
+      diagnosed eating disorder, characterized by recurrent episodes of binge eating 
+      and a sense of loss of control over eating, and is treated with 
+      cognitive-behavioral therapy-enhanced (CBT-E). Shift work, especially night shift 
+      work, can disrupt the body's natural circadian rhythms and increase the risk of 
+      obesity and other negative health consequences, such as cardiovascular disease 
+      and metabolic syndrome. One dietary approach to address circadian dysregulation 
+      is time-restricted eating (TRE), which involves restricting food intake to 
+      specific periods of the day to synchronize the body's internal clock with the 
+      external environment. TRE has been found to cause modest weight loss and improve 
+      metabolic outcomes such as insulin sensitivity and blood pressure, but the extent 
+      to which it is beneficial may depend on adherence and other factors such as 
+      caloric restriction.
+CI  - Published by Elsevier Inc.
+FAU - Goens, Donald
+AU  - Goens D
+AD  - Division of Gastroenterology, UC San Diego, 9500 Gilman Drive, La Jolla, CA 
+      92093, USA.
+FAU - Virzi, Nicole E
+AU  - Virzi NE
+AD  - Department of Clinical Psychology, San Diego State University/University of 
+      California, San Diego Joint Doctoral Program, 6363 Alvarado Court, San Diego, CA 
+      92120, USA.
+FAU - Jung, Sarah E
+AU  - Jung SE
+AD  - VA San Diego Health Sciences, 3350 La Jolla Village Drive, San Diego, CA 92161, 
+      USA.
+FAU - Rutledge, Thomas R
+AU  - Rutledge TR
+AD  - VA San Diego Health Sciences, 3350 La Jolla Village Drive, San Diego, CA 92161, 
+      USA.
+FAU - Zarrinpar, Amir
+AU  - Zarrinpar A
+AD  - Division of Gastroenterology, UC San Diego, 9500 Gilman Drive, La Jolla, CA 
+      92093, USA; VA San Diego Health Sciences, 3350 La Jolla Village Drive, San Diego, 
+      CA 92161, USA. Electronic address: azarrinp@ucsd.edu.
+LA  - eng
+GR  - R01 EB030134/EB/NIBIB NIH HHS/United States
+GR  - R01 HL148801/HL/NHLBI NIH HHS/United States
+GR  - I01 BX005707/BX/BLRD VA/United States
+GR  - UL1 TR001442/TR/NCATS NIH HHS/United States
+GR  - P30 DK120515/DK/NIDDK NIH HHS/United States
+GR  - R01 HL157445/HL/NHLBI NIH HHS/United States
+GR  - P30 DK063491/DK/NIDDK NIH HHS/United States
+GR  - R21 MH117780/MH/NIMH NIH HHS/United States
+GR  - R01 AI163483/AI/NIAID NIH HHS/United States
+GR  - P50 AA011999/AA/NIAAA NIH HHS/United States
+GR  - U01 CA265719/CA/NCI NIH HHS/United States
+GR  - P30 CA014195/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Review
+DEP - 20230407
+PL  - United States
+TA  - Gastroenterol Clin North Am
+JT  - Gastroenterology clinics of North America
+JID - 8706257
+SB  - IM
+MH  - Humans
+MH  - *Obesity/therapy/epidemiology
+MH  - Feeding Behavior/physiology
+MH  - Diet
+MH  - *Cognitive Behavioral Therapy
+MH  - Circadian Rhythm/physiology
+PMC - PMC10746495
+MID - NIHMS1949976
+OTO - NOTNLM
+OT  - Caloric restriction
+OT  - Cardiovascular disease
+OT  - Circadian rhythms
+OT  - Insulin resistance
+OT  - Metabolic syndrome
+OT  - Mindfulness-based interventions
+OT  - Nonalcoholic fatty liver disease
+OT  - Sleep
+EDAT- 2023/05/18 01:07
+MHDA- 2023/05/19 06:42
+PMCR- 2023/12/23
+CRDT- 2023/05/17 20:57
+PHST- 2023/05/19 06:42 [medline]
+PHST- 2023/05/18 01:07 [pubmed]
+PHST- 2023/05/17 20:57 [entrez]
+PHST- 2023/12/23 00:00 [pmc-release]
+AID - S0889-8553(23)00035-3 [pii]
+AID - 10.1016/j.gtc.2023.03.009 [doi]
+PST - ppublish
+SO  - Gastroenterol Clin North Am. 2023 Jun;52(2):347-362. doi: 
+      10.1016/j.gtc.2023.03.009. Epub 2023 Apr 7.
+
+PMID- 37424220
+OWN - NLM
+STAT- Publisher
+LR  - 20231011
+IS  - 1365-2796 (Electronic)
+IS  - 0954-6820 (Linking)
+VI  - 294
+IP  - 5
+DP  - 2023 Nov
+TI  - Neurobiology of eating behavior, nutrition, and health.
+PG  - 582-604
+LID - 10.1111/joim.13699 [doi]
+AB  - Eating behavior and food-related decision making are among the most complex of 
+      the motivated behaviors, and understanding the neurobiology of eating behavior, 
+      and its developmental dynamics, is critical to advancing the nutritional sciences 
+      and public health. Recent advances from both human and animal studies are 
+      revealing that individual capacity to make health-promoting food decisions varies 
+      based on biological and physiological variation in the signaling pathways that 
+      regulate the homeostatic, hedonic, and executive functions; past developmental 
+      exposures and current life-stage; the food environment; and complications of 
+      chronic disease that reinforce the obese state. Eating rate drives increased 
+      calorie intake and represents an important opportunity to lower rates of food 
+      consumption and energy intake through product reformulation. Understanding human 
+      eating behaviors and nutrition in the context of neuroscience can strengthen the 
+      evidence base from which dietary guidelines are derived and can inform policies, 
+      practices, and educational programs in a way that increases the likelihood they 
+      are adopted and effective for reducing rates of obesity and other diet-related 
+      chronic disease.
+CI  - © 2023 The Authors. Journal of Internal Medicine published by John Wiley & Sons 
+      Ltd on behalf of Association for Publication of The Journal of Internal Medicine.
+FAU - Stover, Patrick J
+AU  - Stover PJ
+AD  - Texas A&M Institute for Advancing Health through Agriculture, Texas A&M 
+      University, College Station, Texas, USA.
+FAU - Field, Martha S
+AU  - Field MS
+AD  - Division of Nutritional Sciences, Cornell University, Ithaca, New York, USA.
+FAU - Andermann, Mark L
+AU  - Andermann ML
+AD  - Division of Endocrinology, Diabetes and Metabolism, Beth Israel Deaconess Medical 
+      Center, Harvard Medical School, Boston, Massachusetts, USA.
+FAU - Bailey, Regan L
+AU  - Bailey RL
+AD  - Texas A&M Institute for Advancing Health through Agriculture, Texas A&M 
+      University, College Station, Texas, USA.
+FAU - Batterham, Rachel L
+AU  - Batterham RL
+AD  - University College London, London, UK.
+FAU - Cauffman, Elizabeth
+AU  - Cauffman E
+AD  - Department of Psychological Science, University of California-Irvine, Irvine, 
+      California, USA.
+FAU - Frühbeck, Gema
+AU  - Frühbeck G
+AD  - Department of Endocrinology & Nutrition, Clínica Universidad de Navarra, 
+      CIBEROBN, IdiSNA, Pamplona, Spain.
+FAU - Iversen, Per O
+AU  - Iversen PO
+AD  - Department of Nutrition, University of Oslo, Oslo, Norway.
+FAU - Starke-Reed, Pamela
+AU  - Starke-Reed P
+AD  - United States Department of Agriculture, Beltsville, Maryland, USA.
+FAU - Sternson, Scott M
+AU  - Sternson SM
+AD  - Department of Neurosciences, Howard Hughes Medical Institute, University of 
+      California, San Diego, California, USA.
+FAU - Vinoy, Sophie
+AU  - Vinoy S
+AD  - Nutrition Research Department, Mondelēz Int. R&D, Saclay, France.
+FAU - Witte, A Veronica
+AU  - Witte AV
+AD  - Cognitive Neurology, University Medical Center Leipzig, Germany & Max Planck 
+      Institute for Cognitive and Brain Sciences, Leipzig, Germany.
+FAU - Zuker, Charles S
+AU  - Zuker CS
+AD  - Zuckerman Mind Brain and Behavior Institute, Columbia University, New York, New 
+      York, USA.
+FAU - Angelin, Bo
+AU  - Angelin B
+AD  - Cardiometabolic Unit, Clinical Department of Endocrinology, and Department of 
+      Medicine, Karolinska Institutet at Karolinska University Hospital Huddinge, 
+      Stockholm, Sweden.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230803
+PL  - England
+TA  - J Intern Med
+JT  - Journal of internal medicine
+JID - 8904841
+SB  - IM
+OTO - NOTNLM
+OT  - development
+OT  - eating behavior
+OT  - nutrition
+OT  - obesity
+OT  - public health
+OT  - taste
+EDAT- 2023/07/10 06:42
+MHDA- 2023/07/10 06:42
+CRDT- 2023/07/10 02:23
+PHST- 2023/07/10 06:42 [pubmed]
+PHST- 2023/07/10 06:42 [medline]
+PHST- 2023/07/10 02:23 [entrez]
+AID - 10.1111/joim.13699 [doi]
+PST - ppublish
+SO  - J Intern Med. 2023 Nov;294(5):582-604. doi: 10.1111/joim.13699. Epub 2023 Aug 3.
+
+PMID- 34792619
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220325
+LR  - 20220325
+IS  - 1432-0428 (Electronic)
+IS  - 0012-186X (Linking)
+VI  - 65
+IP  - 2
+DP  - 2022 Feb
+TI  - Environmental risk factors of type 2 diabetes-an exposome approach.
+PG  - 263-274
+LID - 10.1007/s00125-021-05618-w [doi]
+AB  - Type 2 diabetes is one of the major chronic diseases accounting for a substantial 
+      proportion of disease burden in Western countries. The majority of the burden of 
+      type 2 diabetes is attributed to environmental risks and modifiable risk factors 
+      such as lifestyle. The environment we live in, and changes to it, can thus 
+      contribute substantially to the prevention of type 2 diabetes at a population 
+      level. The 'exposome' represents the (measurable) totality of environmental, i.e. 
+      nongenetic, drivers of health and disease. The external exposome comprises 
+      aspects of the built environment, the social environment, the physico-chemical 
+      environment and the lifestyle/food environment. The internal exposome comprises 
+      measurements at the epigenetic, transcript, proteome, microbiome or metabolome 
+      level to study either the exposures directly, the imprints these exposures leave 
+      in the biological system, the potential of the body to combat environmental 
+      insults and/or the biology itself. In this review, we describe the evidence for 
+      environmental risk factors of type 2 diabetes, focusing on both the general 
+      external exposome and imprints of this on the internal exposome. Studies provided 
+      established associations of air pollution, residential noise and area-level 
+      socioeconomic deprivation with an increased risk of type 2 diabetes, while 
+      neighbourhood walkability and green space are consistently associated with a 
+      reduced risk of type 2 diabetes. There is little or inconsistent evidence on the 
+      contribution of the food environment, other aspects of the social environment and 
+      outdoor temperature. These environmental factors are thought to affect type 2 
+      diabetes risk mainly through mechanisms incorporating lifestyle factors such as 
+      physical activity or diet, the microbiome, inflammation or chronic stress. To 
+      further assess causality of these associations, future studies should focus on 
+      investigating the longitudinal effects of our environment (and changes to it) in 
+      relation to type 2 diabetes risk and whether these associations are explained by 
+      these proposed mechanisms.
+CI  - © 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Beulens, Joline W J
+AU  - Beulens JWJ
+AUID- ORCID: 0000-0002-4181-0937
+AD  - Department of Epidemiology & Data Science, Amsterdam Public Health, Amsterdam 
+      Cardiovascular Sciences, Amsterdam UMC, location VUmc, Amsterdam, the 
+      Netherlands. j.beulens@amsterdamumc.nl.
+AD  - Julius Center for Health Sciences and Primary Care, University Medical Center 
+      Utrecht, Utrecht, the Netherlands. j.beulens@amsterdamumc.nl.
+FAU - Pinho, Maria G M
+AU  - Pinho MGM
+AUID- ORCID: 0000-0003-4928-0851
+AD  - Department of Epidemiology & Data Science, Amsterdam Public Health, Amsterdam 
+      Cardiovascular Sciences, Amsterdam UMC, location VUmc, Amsterdam, the 
+      Netherlands.
+FAU - Abreu, Taymara C
+AU  - Abreu TC
+AUID- ORCID: 0000-0003-2699-2303
+AD  - Department of Epidemiology & Data Science, Amsterdam Public Health, Amsterdam 
+      Cardiovascular Sciences, Amsterdam UMC, location VUmc, Amsterdam, the 
+      Netherlands.
+FAU - den Braver, Nicole R
+AU  - den Braver NR
+AUID- ORCID: 0000-0002-6345-251X
+AD  - Department of Epidemiology & Data Science, Amsterdam Public Health, Amsterdam 
+      Cardiovascular Sciences, Amsterdam UMC, location VUmc, Amsterdam, the 
+      Netherlands.
+FAU - Lam, Thao M
+AU  - Lam TM
+AUID- ORCID: 0000-0002-7240-726X
+AD  - Department of Epidemiology & Data Science, Amsterdam Public Health, Amsterdam 
+      Cardiovascular Sciences, Amsterdam UMC, location VUmc, Amsterdam, the 
+      Netherlands.
+FAU - Huss, Anke
+AU  - Huss A
+AD  - Institute for Risk Assessment Sciences, Utrecht University, Utrecht, the 
+      Netherlands.
+FAU - Vlaanderen, Jelle
+AU  - Vlaanderen J
+AUID- ORCID: 0000-0002-9096-692X
+AD  - Institute for Risk Assessment Sciences, Utrecht University, Utrecht, the 
+      Netherlands.
+FAU - Sonnenschein, Tabea
+AU  - Sonnenschein T
+AUID- ORCID: 0000-0001-6592-9548
+AD  - Julius Center for Health Sciences and Primary Care, University Medical Center 
+      Utrecht, Utrecht, the Netherlands.
+AD  - Department of Human Geography and Spatial Planning, Utrecht University, Utrecht, 
+      the Netherlands.
+FAU - Siddiqui, Noreen Z
+AU  - Siddiqui NZ
+AUID- ORCID: 0000-0001-9063-3407
+AD  - Department of Epidemiology & Data Science, Amsterdam Public Health, Amsterdam 
+      Cardiovascular Sciences, Amsterdam UMC, location VUmc, Amsterdam, the 
+      Netherlands.
+FAU - Yuan, Zhendong
+AU  - Yuan Z
+AUID- ORCID: 0000-0003-3326-5243
+AD  - Institute for Risk Assessment Sciences, Utrecht University, Utrecht, the 
+      Netherlands.
+FAU - Kerckhoffs, Jules
+AU  - Kerckhoffs J
+AUID- ORCID: 0000-0001-9065-6916
+AD  - Institute for Risk Assessment Sciences, Utrecht University, Utrecht, the 
+      Netherlands.
+FAU - Zhernakova, Alexandra
+AU  - Zhernakova A
+AUID- ORCID: 0000-0002-4574-0841
+AD  - Department of Genetics, University Medical Center Groningen, Groningen, the 
+      Netherlands.
+FAU - Brandao Gois, Milla F
+AU  - Brandao Gois MF
+AUID- ORCID: 0000-0001-7918-2481
+AD  - Department of Genetics, University Medical Center Groningen, Groningen, the 
+      Netherlands.
+FAU - Vermeulen, Roel C H
+AU  - Vermeulen RCH
+AUID- ORCID: 0000-0003-4082-8163
+AD  - Julius Center for Health Sciences and Primary Care, University Medical Center 
+      Utrecht, Utrecht, the Netherlands.
+AD  - Institute for Risk Assessment Sciences, Utrecht University, Utrecht, the 
+      Netherlands.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20211118
+PL  - Germany
+TA  - Diabetologia
+JT  - Diabetologia
+JID - 0006777
+SB  - IM
+MH  - Diabetes Mellitus, Type 2/*epidemiology
+MH  - Environmental Exposure/*adverse effects
+MH  - *Exposome
+MH  - Humans
+MH  - Risk Factors
+OTO - NOTNLM
+OT  - Built environment
+OT  - Exposome
+OT  - Food environment
+OT  - Lifestyle
+OT  - Metabolomics
+OT  - Microbiome
+OT  - Physico-chemical environment
+OT  - Review
+OT  - Social environment
+OT  - Type 2 diabetes
+EDAT- 2021/11/19 06:00
+MHDA- 2022/03/26 06:00
+CRDT- 2021/11/18 12:24
+PHST- 2021/06/16 00:00 [received]
+PHST- 2021/10/07 00:00 [accepted]
+PHST- 2021/11/19 06:00 [pubmed]
+PHST- 2022/03/26 06:00 [medline]
+PHST- 2021/11/18 12:24 [entrez]
+AID - 10.1007/s00125-021-05618-w [pii]
+AID - 10.1007/s00125-021-05618-w [doi]
+PST - ppublish
+SO  - Diabetologia. 2022 Feb;65(2):263-274. doi: 10.1007/s00125-021-05618-w. Epub 2021 
+      Nov 18.
+
+PMID- 35684077
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220613
+LR  - 20220716
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 14
+IP  - 11
+DP  - 2022 May 29
+TI  - Increasing Access to Healthy Foods through Improving Food Environment: A Review 
+      of Mixed Methods Intervention Studies with Residents of Low-Income Communities.
+LID - 10.3390/nu14112278 [doi]
+LID - 2278
+AB  - Food insecurity is a broad and serious public health issue in the United States, 
+      where many people are reporting lack of access to healthy foods. The reduced 
+      availability of healthy, affordable foods has led to increased consumption of 
+      energy-dense and nutrient-poor foods, resulting in increasing the risk for many 
+      chronic diseases such as obesity, cardiovascular diseases, and type 2 diabetes 
+      mellitus. Thus, identifying promising approaches to increase access to healthy 
+      foods through improving the food environment is of importance. The purpose of 
+      this review article is to highlight how the food environment affects directly a 
+      person's food choices, and how to increase access to healthy foods through 
+      improving environmental approaches. The literature search was focused on finding 
+      different approaches to improve food security, primarily those with an impact on 
+      food environment. Overall, potential solutions were gathered through multilevel 
+      environmental approaches, including nutrition education and peer education, 
+      community-based participatory research, and policy changes in supplemental 
+      nutrition programs. A recommendation to reduce food insecurity is learning to 
+      create meals with a variety of seasonal fruits and vegetables purchased from 
+      affordable farmers' markets.
+FAU - Ziso, Dea
+AU  - Ziso D
+AD  - Department of Nutritional Sciences, University of Connecticut, Storrs, CT 06269, 
+      USA.
+FAU - Chun, Ock K
+AU  - Chun OK
+AUID- ORCID: 0000-0002-7391-2380
+AD  - Department of Nutritional Sciences, University of Connecticut, Storrs, CT 06269, 
+      USA.
+FAU - Puglisi, Michael J
+AU  - Puglisi MJ
+AD  - Department of Nutritional Sciences, University of Connecticut, Storrs, CT 06269, 
+      USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220529
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+SB  - IM
+MH  - Access to Healthy Foods
+MH  - *Diabetes Mellitus, Type 2/prevention & control
+MH  - *Food Assistance
+MH  - Food Supply/methods
+MH  - Fruit
+MH  - Humans
+MH  - Poverty
+MH  - United States
+MH  - Vegetables
+PMC - PMC9182982
+OTO - NOTNLM
+OT  - chronic disease
+OT  - food environment
+OT  - food insecurity
+OT  - low-income
+OT  - multilevel approaches
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/06/11 06:00
+MHDA- 2022/06/14 06:00
+PMCR- 2022/05/29
+CRDT- 2022/06/10 01:22
+PHST- 2022/04/21 00:00 [received]
+PHST- 2022/05/22 00:00 [revised]
+PHST- 2022/05/27 00:00 [accepted]
+PHST- 2022/06/10 01:22 [entrez]
+PHST- 2022/06/11 06:00 [pubmed]
+PHST- 2022/06/14 06:00 [medline]
+PHST- 2022/05/29 00:00 [pmc-release]
+AID - nu14112278 [pii]
+AID - nutrients-14-02278 [pii]
+AID - 10.3390/nu14112278 [doi]
+PST - epublish
+SO  - Nutrients. 2022 May 29;14(11):2278. doi: 10.3390/nu14112278.
+
+PMID- 37140933
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230721
+LR  - 20230724
+IS  - 2374-2445 (Electronic)
+IS  - 2374-2437 (Print)
+IS  - 2374-2437 (Linking)
+VI  - 9
+IP  - 7
+DP  - 2023 Jul 1
+TI  - Association of Food Deserts and Food Swamps With Obesity-Related Cancer Mortality 
+      in the US.
+PG  - 909-916
+LID - 10.1001/jamaoncol.2023.0634 [doi]
+AB  - IMPORTANCE: Obesity-related cancers account for 40% of all cancers in the US. 
+      Healthy food consumption is a modifiable factor shown to reduce obesity-related 
+      cancer mortality, but residing in areas with less access to grocery stores (food 
+      deserts) or higher access to fast food (food swamps) reduces healthy food access 
+      and has been understudied. OBJECTIVE: To analyze the association of food deserts 
+      and food swamps with obesity-related cancer mortality in the US. DESIGN, SETTING, 
+      AND PARTICIPANTS: This cross-sectional ecologic study used US Department of 
+      Agriculture Food Environment Atlas data from 2012, 2014, 2015, 2017, and 2020 and 
+      Centers for Disease Control and Prevention mortality data from 2010 to 2020. A 
+      total of 3038 US counties or county equivalents with complete information on food 
+      environment scores and obesity-related cancer mortality data were included. An 
+      age-adjusted, generalized, mixed-effects regression model was performed for the 
+      association of food desert and food swamp scores with obesity-related cancer 
+      mortality rates. Data were analyzed from September 9, 2022, to September 30, 
+      2022. EXPOSURES: Food swamp score was calculated as the ratio of fast-food and 
+      convenience stores to grocery stores and farmers markets. Higher food swamp and 
+      food desert scores (20.0 to ≥58.0) indicated counties with fewer healthy food 
+      resources. MAIN OUTCOMES AND MEASURES: Obesity-related cancer (based on the 
+      International Agency for Research on Cancer evidence between obesity and 13 types 
+      of cancer) mortality rates were categorized as high (≥71.8 per 100 000 
+      population) vs low (<71.8 per 100 000 population) per county. RESULTS: A total of 
+      3038 counties or county equivalents with high obesity-related cancer mortality 
+      rates had a higher percentage of non-Hispanic Black residents (3.26% [IQR, 
+      0.47%-26.35%] vs 1.77% [IQR, 0.43%-8.48%]), higher percentage of persons older 
+      than 65 years (15.71% [IQR, 13.73%-18.00%] vs 15.40% [IQR, 12.82%-18.09%]), 
+      higher poverty rates (19.00% [IQR, 14.20%-23.70%] vs 14.40% [IQR, 
+      11.00%-18.50%]), higher adult obesity rates (33.00% [IQR, 32.00%-35.00%] vs 
+      32.10% [IQR, 29.30%-33.20%]), and higher adult diabetes rates (12.50% [IQR, 
+      11.00%-14.20%] vs 10.70% [IQR, 9.30%-12.40%]) compared with counties or county 
+      equivalents with low obesity-related cancer mortality. There was a 77% increased 
+      odds of having high obesity-related cancer mortality rates among US counties or 
+      county equivalents with high food swamp scores (adjusted odds ratio, 1.77; 95% 
+      CI, 1.43-2.19). A positive dose-response relationship among 3 levels of food 
+      desert and food swamp scores and obesity-related cancer mortality was also 
+      observed. CONCLUSIONS AND RELEVANCE: The findings of this cross-sectional 
+      ecologic study suggest that policy makers, funding agencies, and community 
+      stakeholders should implement sustainable approaches to combating obesity and 
+      cancer and establishing access to healthier food, such as creating more walkable 
+      neighborhoods and community gardens.
+FAU - Bevel, Malcolm Seth
+AU  - Bevel MS
+AD  - Cancer Prevention, Control and Population Health, Georgia Cancer Center, 
+      Department of Medicine, Medical College of Georgia, Augusta University, Augusta.
+FAU - Tsai, Meng-Han
+AU  - Tsai MH
+AD  - Cancer Prevention, Control and Population Health, Georgia Cancer Center, 
+      Department of Medicine, Medical College of Georgia, Augusta University, Augusta.
+AD  - Georgia Prevention Institute, Medical College of Georgia, Augusta University, 
+      Augusta.
+FAU - Parham, April
+AU  - Parham A
+AD  - Cancer Prevention, Control and Population Health, Georgia Cancer Center, 
+      Department of Medicine, Medical College of Georgia, Augusta University, Augusta.
+FAU - Andrzejak, Sydney Elizabeth
+AU  - Andrzejak SE
+AD  - Cancer Prevention, Control and Population Health, Georgia Cancer Center, 
+      Department of Medicine, Medical College of Georgia, Augusta University, Augusta.
+FAU - Jones, Samantha
+AU  - Jones S
+AD  - Cancer Prevention, Control and Population Health, Georgia Cancer Center, 
+      Department of Medicine, Medical College of Georgia, Augusta University, Augusta.
+AD  - Georgia Prevention Institute, Medical College of Georgia, Augusta University, 
+      Augusta.
+FAU - Moore, Justin Xavier
+AU  - Moore JX
+AD  - Cancer Prevention, Control and Population Health, Georgia Cancer Center, 
+      Department of Medicine, Medical College of Georgia, Augusta University, Augusta.
+AD  - Institute of Preventive and Public Health, Medical College of Georgia, Augusta 
+      University, Augusta.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - JAMA Oncol
+JT  - JAMA oncology
+JID - 101652861
+SB  - IM
+CIN - JAMA Oncol. 2023 Jul 1;9(7):917-918. doi: 10.1001/jamaoncol.2023.0593. PMID: 
+      37140930
+MH  - Adult
+MH  - Humans
+MH  - *Food Deserts
+MH  - Wetlands
+MH  - Cross-Sectional Studies
+MH  - Food Supply
+MH  - Obesity/epidemiology
+MH  - *Neoplasms
+PMC - PMC10160992
+COIS- Conflict of Interest Disclosures: None reported.
+EDAT- 2023/05/04 12:42
+MHDA- 2023/07/21 06:43
+PMCR- 2023/05/04
+CRDT- 2023/05/04 11:37
+PHST- 2023/07/21 06:43 [medline]
+PHST- 2023/05/04 12:42 [pubmed]
+PHST- 2023/05/04 11:37 [entrez]
+PHST- 2023/05/04 00:00 [pmc-release]
+AID - 2804691 [pii]
+AID - coi230012 [pii]
+AID - 10.1001/jamaoncol.2023.0634 [doi]
+PST - ppublish
+SO  - JAMA Oncol. 2023 Jul 1;9(7):909-916. doi: 10.1001/jamaoncol.2023.0634.
+
+PMID- 38972826
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240920
+LR  - 20240926
+IS  - 1878-0210 (Electronic)
+IS  - 1878-0210 (Linking)
+VI  - 18
+IP  - 5
+DP  - 2024 Oct
+TI  - Diet quality, community food access, and glycemic control among nulliparous 
+      individuals with diabetes.
+PG  - 506-510
+LID - S1751-9918(24)00124-4 [pii]
+LID - 10.1016/j.pcd.2024.06.011 [doi]
+AB  - Better diet quality regardless of community food access was associated with a 
+      higher likelihood of glycemic control in early pregnancy among nulliparous 
+      individuals with pregestational diabetes. These findings highlight the need for 
+      interventions that address nutrition insecurity for pregnant individuals living 
+      with diabetes.
+CI  - Copyright © 2024 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Venkatesh, Kartik K
+AU  - Venkatesh KK
+AD  - Department of Obstetrics and Gynecology, The Ohio State 
+      University, Columbus, OH, USA. Electronic address: Kartik.venkatesh@osumc.edu.
+FAU - Yee, Lynn M
+AU  - Yee LM
+AD  - Department of Obstetrics and Gynecology, Northwestern 
+      University, Chicago, IL, USA.
+FAU - Wu, Jiqiang
+AU  - Wu J
+AD  - Department of Obstetrics and Gynecology, The Ohio State 
+      University, Columbus, OH, USA.
+FAU - Joseph, Joshua J
+AU  - Joseph JJ
+AD  - Department of Internal Medicine, The Ohio State University, Columbus, OH, USA.
+FAU - Garner, Jennifer
+AU  - Garner J
+AD  - Division of Nutritional Sciences, School of Public Health, University of 
+      Michigan, Ann Arbor, MI, USA.
+FAU - McNeil, Rebecca
+AU  - McNeil R
+AD  - RTI International, Durham, NC, USA.
+FAU - Scifres, Christina
+AU  - Scifres C
+AD  - Department of Obstetrics and Gynecology, Indiana 
+      University, Indianapolis, IN, USA.
+FAU - Mercer, Brian
+AU  - Mercer B
+AD  - Department of Obstetrics and Gynecology, Case Western Reserve 
+      University, Cleveland, OH, USA.
+FAU - Reddy, Uma M
+AU  - Reddy UM
+AD  - Department of Obstetrics and Gynecology, Columbia University, New York, NY, USA.
+FAU - Silver, Robert M
+AU  - Silver RM
+AD  - Department of Obstetrics and Gynecology, University of Utah, Salt Lake 
+      City, UT, USA.
+FAU - Saade, George
+AU  - Saade G
+AD  - Department of Obstetrics and Gynecology, Eastern Virginia Medical 
+      School, Norfolk, VA, USA.
+FAU - Parry, Samuel
+AU  - Parry S
+AD  - Department of Obstetrics and Gynecology, University of 
+      Pennsylvania, Philadelphia, PA, USA.
+FAU - Simhan, Hyagriv
+AU  - Simhan H
+AD  - Department of Obstetrics and Gynecology, The Ohio State 
+      University, Columbus, OH, USA; Department of Obstetrics and Gynecology, 
+      Northwestern University, Chicago, IL, USA; Department of Obstetrics and 
+      Gynecology, University of Pittsburgh, Pittsburgh, PA, USA.
+FAU - Post, Rebecca J
+AU  - Post RJ
+AD  - Department of Obstetrics and Gynecology, University of California, Irvine, School 
+      of Medicine, Orange, CA, USA.
+FAU - Walker, Daniel M
+AU  - Walker DM
+AD  - Department of Family and Community Medicine, The Ohio State 
+      University, Columbus, OH, USA.
+FAU - Grobman, William A
+AU  - Grobman WA
+AD  - Department of Obstetrics and Gynecology, The Ohio State 
+      University, Columbus, OH, USA.
+LA  - eng
+GR  - R01 HS028822/HS/AHRQ HHS/United States
+GR  - U10 HD063036/HD/NICHD NIH HHS/United States
+GR  - U10 HD063047/HD/NICHD NIH HHS/United States
+GR  - U10 HD063037/HD/NICHD NIH HHS/United States
+GR  - U10 HD063041/HD/NICHD NIH HHS/United States
+GR  - U10 HD063046/HD/NICHD NIH HHS/United States
+GR  - U10 HD063053/HD/NICHD NIH HHS/United States
+GR  - UL1 TR001108/TR/NCATS NIH HHS/United States
+GR  - UL1 TR000153/TR/NCATS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+DEP - 20240706
+PL  - England
+TA  - Prim Care Diabetes
+JT  - Primary care diabetes
+JID - 101463825
+RN  - 0 (Blood Glucose)
+RN  - 0 (Biomarkers)
+RN  - 0 (Glycated Hemoglobin)
+RN  - 0 (hemoglobin A1c protein, human)
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - Pregnancy
+MH  - *Glycemic Control
+MH  - Adult
+MH  - *Blood Glucose/metabolism
+MH  - *Parity
+MH  - *Pregnancy in Diabetics/blood/diagnosis
+MH  - *Diet, Healthy
+MH  - *Nutritive Value
+MH  - *Biomarkers/blood
+MH  - Food Insecurity
+MH  - Food Supply
+MH  - Young Adult
+MH  - Nutritional Status
+MH  - Cross-Sectional Studies
+MH  - Glycated Hemoglobin/metabolism
+MH  - Maternal Nutritional Physiological Phenomena
+OTO - NOTNLM
+OT  - Diabetes
+OT  - Diet quality
+OT  - Food access
+OT  - Food insecurity
+OT  - Glycemic control
+OT  - Nutrition insecurity
+OT  - Pregnancy
+EDAT- 2024/07/08 00:42
+MHDA- 2024/09/21 13:19
+CRDT- 2024/07/07 21:57
+PHST- 2023/12/16 00:00 [received]
+PHST- 2024/05/29 00:00 [revised]
+PHST- 2024/06/25 00:00 [accepted]
+PHST- 2024/09/21 13:19 [medline]
+PHST- 2024/07/08 00:42 [pubmed]
+PHST- 2024/07/07 21:57 [entrez]
+AID - S1751-9918(24)00124-4 [pii]
+AID - 10.1016/j.pcd.2024.06.011 [doi]
+PST - ppublish
+SO  - Prim Care Diabetes. 2024 Oct;18(5):506-510. doi: 10.1016/j.pcd.2024.06.011. Epub 
+      2024 Jul 6.
+
+PMID- 38770659
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240812
+LR  - 20240812
+IS  - 1440-1665 (Electronic)
+IS  - 1039-8562 (Linking)
+VI  - 32
+IP  - 4
+DP  - 2024 Aug
+TI  - Fruit for thought.
+PG  - 383-386
+LID - 10.1177/10398562241253171 [doi]
+AB  - OBJECTIVE: This commentary discusses the New Zealand Labour Party's announcement 
+      to remove tax on fresh and frozen fruits and vegetables. It aims to explore its 
+      potential impact on the psychological well-being of New Zealanders in the context 
+      of the growing global burden of mental illnesses in the current food environment. 
+      CONCLUSIONS: The proposed tax exemption on fruits and vegetables demonstrates the 
+      government's commitment to improving the food environment. While the precise 
+      mental health effects of this potential tax change remain unstudied, existing 
+      evidence suggests a positive impact on New Zealanders' well-being, marking a 
+      pivotal step in addressing broader health issues and fostering a healthier, more 
+      equitable food landscape.
+FAU - Hussain, Shehnaz
+AU  - Hussain S
+AUID- ORCID: 0009-0006-3253-7728
+AD  - Te Whatu Ora Health New Zealand Counties Manukau, Auckland, New Zealand. 
+      RINGGOLD: 10158
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240521
+PL  - England
+TA  - Australas Psychiatry
+JT  - Australasian psychiatry : bulletin of Royal Australian and New Zealand College of 
+      Psychiatrists
+JID - 9613603
+SB  - IM
+MH  - Humans
+MH  - New Zealand
+MH  - *Fruit
+MH  - Vegetables
+MH  - Taxes
+OTO - NOTNLM
+OT  - food policy
+OT  - fruits and vegetables
+OT  - mental health
+OT  - tax exemption
+OT  - ultra-processed food
+COIS- DisclosureThe author(s) declared no potential conflicts of interest with respect 
+      to the research, authorship, and/or publication of this article.
+EDAT- 2024/05/21 06:43
+MHDA- 2024/08/12 06:42
+CRDT- 2024/05/21 05:04
+PHST- 2024/08/12 06:42 [medline]
+PHST- 2024/05/21 06:43 [pubmed]
+PHST- 2024/05/21 05:04 [entrez]
+AID - 10.1177/10398562241253171 [doi]
+PST - ppublish
+SO  - Australas Psychiatry. 2024 Aug;32(4):383-386. doi: 10.1177/10398562241253171. 
+      Epub 2024 May 21.
+
+PMID- 34047267
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211029
+LR  - 20230522
+IS  - 1475-2727 (Electronic)
+IS  - 1368-9800 (Print)
+IS  - 1368-9800 (Linking)
+VI  - 24
+IP  - 14
+DP  - 2021 Oct
+TI  - Food environment research is needed to improve nutrition and well-being in Asia 
+      and the Pacific.
+PG  - 4706-4710
+LID - 10.1017/S136898002100241X [doi]
+FAU - Farrell, Penny
+AU  - Farrell P
+AD  - Menzies Centre for Health Policy and Economics, School of Public Health, 
+      University of Sydney, Sydney, NSW 2006, Australia.
+FAU - Rachmi, Cut Novianti
+AU  - Rachmi CN
+AD  - Reconstra Utama Integra, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, 
+      Indonesia.
+FAU - Mulcahy, Georgina
+AU  - Mulcahy G
+AD  - Menzies Centre for Health Policy and Economics, School of Public Health, 
+      University of Sydney, Sydney, NSW 2006, Australia.
+FAU - Helble, Matthias
+AU  - Helble M
+AD  - Regional Cooperation and Integration Division, Economic Research and Regional 
+      Cooperation Department, Asian Development Bank, Manila, Philippines.
+FAU - Thow, Anne Marie
+AU  - Thow AM
+AD  - Menzies Centre for Health Policy and Economics, School of Public Health, 
+      University of Sydney, Sydney, NSW 2006, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210528
+PL  - England
+TA  - Public Health Nutr
+JT  - Public health nutrition
+JID - 9808463
+SB  - IM
+MH  - Asia
+MH  - Humans
+MH  - *Nutritional Status
+MH  - Pacific Islands
+PMC - PMC10195240
+EDAT- 2021/05/29 06:00
+MHDA- 2021/10/30 06:00
+PMCR- 2021/10/01
+CRDT- 2021/05/28 08:47
+PHST- 2021/05/29 06:00 [pubmed]
+PHST- 2021/10/30 06:00 [medline]
+PHST- 2021/05/28 08:47 [entrez]
+PHST- 2021/10/01 00:00 [pmc-release]
+AID - S136898002100241X [pii]
+AID - 10.1017/S136898002100241X [doi]
+PST - ppublish
+SO  - Public Health Nutr. 2021 Oct;24(14):4706-4710. doi: 10.1017/S136898002100241X. 
+      Epub 2021 May 28.

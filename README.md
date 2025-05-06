@@ -1,15 +1,42 @@
 # A Rapid Review of Health Outcomes Associated with the Food Environment in Cities - Reference List
 
-This repository contains a comprehensive reference list supporting the poster titled *"A Rapid Review of Health Outcomes Associated with the Food Environment in Cities"*. The poster, presented by Kostadin Kostadinov (1,2,3), Donka Dimitrova (2,3,4), Marco Helbich (2,3,5), Angel Burov (2,3,6), and Angel Dzhambov (2,3), summarizes findings from a rapid review conducted between January 2021 and January 2025. The review screened 1,417 records, focusing on the impact of urban food environments on health outcomes, including diabetes incidence, cardiovascular health, obesity, and pregnancy-related outcomes.
+This repository contains a comprehensive reference list supporting the poster titled *"A Rapid Review of Health Outcomes Associated with the Food Environment in Cities"*. The poster, presented by Kostadin Kostadinov (1,2,3), Donka Dimitrova (1,2,4), Marco Helbich (1,2,5), Angel Burov (1,2,6), and Angel Dzhambov (1,2), summarizes findings from a rapid review conducted between January 2021 and January 2025. The review screened 1,417 records, focusing on the impact of urban food environments on health outcomes, including diabetes incidence, cardiovascular health, obesity, and pregnancy-related outcomes.
 
 ## Affiliations
 
-1. Department of Social Medicine and Public Health, Faculty of Public Health, Medical University of Plovdiv, Plovdiv, Bulgaria  
-2. Health and Quality of Life in a Green and Sustainable Environment Research Group, Strategic Research and Innovation Program for the Development of MU - Plovdiv, Medical University of Plovdiv, Plovdiv, Bulgaria  
-3. Environmental Health Division, Research Institute at Medical University of Plovdiv, Medical University of Plovdiv, Plovdiv, Bulgaria  
-4. Department of Health Management and Health Economics, Faculty of Public Health, Medical University of Plovdiv, Plovdiv, Bulgaria  
-5. Department of Human Geography and Spatial Planning, Faculty of Geosciences, Utrecht University, the Netherlands  
+1. Environmental Health Division, Research Institute at Medical University of Plovdiv, Medical University of Plovdiv, Plovdiv, Bulgaria;
+2. Health and Quality of Life in a Green and Sustainable Environment Research Group, Strategic Research and Innovation Program for the Development of MU - Plovdiv, Medical University of Plovdiv, Plovdiv, Bulgaria;  
+3. Department of Social Medicine and Public Health, Faculty of Public Health, Medical University of Plovdiv, Plovdiv, Bulgaria;  
+4. Department of Health Management and Health Economics, Faculty of Public Health, Medical University of Plovdiv, Plovdiv, Bulgaria;  
+5. Department of Human Geography and Spatial Planning, Faculty of Geosciences, Utrecht University, the Netherlands;  
 6. Department of Urban Planning, Faculty of Architecture, University of Architecture, Civil Engineering and Geodesy, Sofia, Bulgaria
+
+
+## Methods
+
+A structured literature search was conducted in PubMed to identify peer-reviewed studies published in English between January 2021 and January 2025. The search strategy was developed with input from DeepSeek. The lead author (Kostadin Kostadinov) consulted DeepSeek with the query: "*How should we structure our PubMed search to effectively capture studies on urban food environments and their health impacts?*" DeepSeek proposed the following strategy:  
+
+```
+Use a combination of MeSH terms (e.g., "Food Supply," "Urban Health") and keywords (e.g., "food desert," "fast food outlet," "healthy food access," "urban diet").  
+Apply Boolean operators: (food environment OR urban food access OR fast food density OR food deserts OR fresh produce availability) AND health outcomes.  
+Filter for English-language, peer-reviewed articles from 2021–2025, focusing on human studies with observational or interventional designs.  
+
+Final search string:  
+("food environment"[TIAB] OR "urban food access"[TIAB] OR "fast food density"[TIAB] OR "food deserts"[TIAB] OR "fresh produce availability"[TIAB]) AND ("health outcomes"[TIAB] OR "health status"[TIAB] OR "public health"[TIAB] OR "chronic disease"[TIAB] OR "non-communicable disease"[TIAB] OR "obesity"[TIAB] OR "overweight"[TIAB] OR "body mass index"[TIAB] OR "BMI"[TIAB] OR "diabetes"[TIAB] OR "type 2 diabetes"[TIAB] OR "insulin resistance"[TIAB] OR "cardiovascular disease"[TIAB] OR "heart disease"[TIAB] OR "hypertension"[TIAB] OR "high blood pressure"[TIAB] OR "mental health"[TIAB] OR "depression"[TIAB] OR "anxiety"[TIAB] OR "well-being"[TIAB])
+```
+
+These records were imported into Rayyan, a web-based tool for systematic review management. One reviewer screened titles and abstracts against predefined inclusion criteria: studies must (1) focus on urban food environments, (2) report quantitative health-related data, (3) be peer-reviewed, and (4) be available in English. Exclusion criteria included non-urban settings, qualitative studies without quantitative data, and reviews without original data. Discrepancies in screening were resolved through consensus or consultation with a third reviewer.
+
+After screening, 120 records were retained for full-text review and final analysis, following the application of inclusion/exclusion criteria. Data charting was performed using a standardized form in Rayyan, capturing study design, population characteristics, food environment metrics (e.g., outlet density, supermarket proximity), and health outcome measures. The extracted data were synthesized **narratively**, with four main outcome areas—diabetes incidence, cardiovascular health, obesity, and pregnancy-related outcomes—emerging organically from the analysis of patterns and associations across the 120 studies. This synthesis involved identifying recurring themes.
+
+### Refining the Search Strategy
+
+To ensure a robust methodology, the lead author (Kostadin Kostadinov) sought clarification on the search strategy by consulting DeepSeek, an AI tool for research support. The query posed was: "How should we structure our PubMed search to effectively capture studies on urban food environments and health outcomes?" DeepSeek responded with the following strategy:  
+- Use a combination of MeSH terms (e.g., "Food Supply," "Urban Health," "Diabetes Mellitus," "Cardiovascular Diseases") and keywords (e.g., "food desert," "fast food outlet," "healthy food access").  
+- Apply Boolean operators: `(food environment OR urban food access OR fast food density OR food deserts OR fresh produce availability) AND (diabetes incidence OR cardiovascular disease OR obesity OR gestational diabetes)`.  
+- Filter for English-language, peer-reviewed articles from 2021–2025, focusing on human studies with observational or interventional designs.  
+- Import results into Rayyan for systematic screening and data extraction.  
+This strategy was implemented, refining the initial search and contributing to the final selection of 120 records.
 
 ## Purpose
 
