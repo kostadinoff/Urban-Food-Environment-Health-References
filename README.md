@@ -29,14 +29,18 @@ These records were imported into Rayyan, a web-based tool for systematic review 
 
 After screening, 120 records were retained for full-text review and final analysis, following the application of inclusion/exclusion criteria. Data charting was performed using a standardized form in Rayyan, capturing study design, population characteristics, food environment metrics (e.g., outlet density, supermarket proximity), and health outcome measures. The extracted data were synthesized **narratively**, with four main outcome areas—diabetes incidence, cardiovascular health, obesity, and pregnancy-related outcomes—emerging organically from the analysis of patterns and associations across the 120 studies. This synthesis involved identifying recurring themes.
 
-### Refining the Search Strategy
 
-To ensure a robust methodology, the lead author (Kostadin Kostadinov) sought clarification on the search strategy by consulting DeepSeek, an AI tool for research support. The query posed was: "How should we structure our PubMed search to effectively capture studies on urban food environments and health outcomes?" DeepSeek responded with the following strategy:  
-- Use a combination of MeSH terms (e.g., "Food Supply," "Urban Health," "Diabetes Mellitus," "Cardiovascular Diseases") and keywords (e.g., "food desert," "fast food outlet," "healthy food access").  
-- Apply Boolean operators: `(food environment OR urban food access OR fast food density OR food deserts OR fresh produce availability) AND (diabetes incidence OR cardiovascular disease OR obesity OR gestational diabetes)`.  
-- Filter for English-language, peer-reviewed articles from 2021–2025, focusing on human studies with observational or interventional designs.  
-- Import results into Rayyan for systematic screening and data extraction.  
-This strategy was implemented, refining the initial search and contributing to the final selection of 120 records.
+## Limitations
+
+The review has several limitations that should be considered. First, the restriction to English-language studies may have excluded relevant research published in other languages, potentially missing regional perspectives, including those from non-English-speaking countries like Bulgaria. Second, the time frame (January 2021 to January 2025) limits the historical context, omitting earlier studies that might provide deeper insights into long-term trends. Third, the reliance on a rapid review methodology and the clustering of outcomes from 120 records may introduce bias, as the narrative synthesis depended on the initial search strategy and reviewer interpretation. Finally, the focus on urban settings may not fully represent rural health disparities, which could be relevant to Bulgaria’s diverse geographical context.
+
+## Relevance to Bulgarian Context
+
+The findings of this review are highly relevant to Bulgaria, particularly in urban centers like Plovdiv and Sofia. Bulgaria faces challenges with food environment disparities, including limited access to fresh produce in lower-income neighborhoods and a growing prevalence of fast-food outlets, which may contribute to rising rates of obesity and type 2 diabetes—key outcomes identified in the review.
+
+The association between unhealthy food environments and cardiovascular health is also pertinent, given Bulgaria’s high cardiovascular mortality rates. Additionally, the pregnancy-related outcomes (e.g., gestational diabetes) highlight a need for improved dietary support in Bulgarian cities, where urban planning and food access policies could be informed by this research.
+
+The collaboration between Bulgarian institutions and international expertise underscores the potential for localized policy interventions to address these public health challenges.
 
 ## Purpose
 
